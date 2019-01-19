@@ -17,7 +17,7 @@
 <body>
 <table style="width:50%">
     <tr>
-        <th>Id</th>
+        <th>No</th>
         <th>Kode Barang</th>
         <th>Nama Barang</th>
         <th>Stok</th>
